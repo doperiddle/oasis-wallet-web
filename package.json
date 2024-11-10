@@ -72,9 +72,12 @@
     "lodash": "4.17.21",
     "qrcode.react": "3.1.0",
     "react": "18.3.1",
-    "react-app-polyfill": "3.0.0",
+    
+    "react-data-table-component": "7.6.2",
+    "react-dom": "18.2.0",
+=======
     "react-data-table-component": "6.11.8",
-    "react-dom": "18.3.1",
+    "react
     "react-helmet-async": "1.3.0",
     "react-i18next": "12.3.1",
     "react-redux": "7.2.9",
